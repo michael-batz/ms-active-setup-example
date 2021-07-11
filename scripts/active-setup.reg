@@ -2,6 +2,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Active Setup\Installed Components\ActiveSetupExample]
 @="Active Setup Example"
-"IsInstalled"="dword:1"
-"StubPath"="C:\Windows\System32\reg import C:\test.reg"
+"IsInstalled"=dword:1
+"StubPath"="C:\\Windows\\System32\\reg import C:\\test.reg"
 "Version"="1,0,0"
+
